@@ -39,3 +39,12 @@
 ## Open questions
 - Browser line was transcribed "Chrome and Safari are allowed. Firefox is preferred." - confirm exact wording.
 - Where the current app-category list lives (Studio catalog?).
+
+## Idea submission walkthrough (video 2)
+- Idea = rough outline of a task you do well that needs apps; ideally something an AI model is unlikely to already know how to do.
+- Fields: field/domain, goal, starting materials, high-level steps, final deliverable; plus pick apps.
+- Restricted app list: Slack "Odin announcements" channel, or Project Odin resources -> Odin Writer Guidelines -> Overview -> scroll to "restricted app list".
+- No AI during recording. Gemini-prepared inputs OK but must be disclosed. No proprietary information.
+- Idea Check (~1 min) tests completeness AND uniqueness vs other submitted ideas. If rejected: refine and resubmit.
+- Task must be 15-45 min (video says 15-45; Maven said 15:00-50:59). Too-simple tasks (e.g. screenshot + Preview) get rejected; use more sophisticated apps.
+- The idea bot is called "Loki" in the video, "Maven" elsewhere: tag it in #odin--ideation, then reply in thread.
