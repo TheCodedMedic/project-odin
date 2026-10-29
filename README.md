@@ -35,3 +35,21 @@ $40/hr, $50-60/hr, $50/task, $100/task. Unclear whether onboarding, prep and rej
 - Which role and offer do you have? Exact pay model?
 - Which Mac and macOS version?
 - What can you see in your dashboard / onboarding so far?
+
+---
+
+## Update: from the official Studio task page (user-supplied, Oct 2026)
+This supersedes the third-party notes above where they conflict.
+
+- Project: Odin trains AI to do tasks on macOS. You record your screen doing a realistic task from your own expertise, narrating what and why.
+- Mac: Apple silicon (M1+) OR Intel, macOS 15+, 35 GB free. Intel uses `TaskRecorder2.4.4-Intel.dmg`.
+- Pay: onboarding = 3 hrs + $400 (paid on task submission, so keep going past the 3 hrs). Trial = 12 paid hrs for 3 quality tasks. Production = up to ~2x pay for consistently high-quality tasks with few retries.
+- Insightful (time tracker, @mercor.expert login) must be running while working. Stay within hourly/weekly caps.
+- Source of truth: Writer Guidelines + Writer Handbook (Okta at c-mercor.okta.com -> Google Drive).
+- Flow: Idea -> automated Idea Check (~1 min, must pass) -> set up TaskRecorder -> record -> upload -> submit.
+- Idea must have 5 headings: Domain/Role, Goal, Starting materials, Steps (with apps per step), Deliverable. Apps listed again in the Apps field. Missing or inconsistent items are the top reason ideas are sent back.
+- Rules: no RESTRICTED apps (list not seen), no AI while recording, free files only (CC0/public domain), Safari/Chrome allowed (10/22), TextEdit banned except for `metadata.rtf`, avoid desktop Excel (use Google Sheets / Excel web).
+- Help: Slack `#odin--ideation`, tag Maven.
+
+## Still unknown
+- Restricted-app list, recording length/format/naming, upload location, metadata.rtf contents, grading criteria, hourly rate, "Reset (237%)" meaning, video contents.
