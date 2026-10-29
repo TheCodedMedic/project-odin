@@ -46,3 +46,14 @@ Rules to keep in mind while recording: narrate What + Where + Why for each actio
 Deliverables.zip: `input 1.html`, `artifact 1.png` (before), `artifact 2.png` (fix A attempt), `artifact 3.png` (after), `final output 1.docx` (rename the Word file when you zip - the AutoQC naming check requires "final output N"). Separately upload video.mp4, the original recording_TIMESTAMP.zip, Metadata.rtf.
 Final Notes: "input 1: AI-generated before recording" (if Gemini) or "written by me".
 Metadata.rtf Topology example (must match what you actually do): Chrome - LOOKUP; Chrome - MODIFY; Word - CREATE; Chrome - LOOKUP; Word - MODIFY.
+
+---
+## Revision (Oct 29, evening): Word -> Pages
+No Microsoft 365 license, so the documentation app changes from Microsoft Word to Pages (free on Mac; listed not-restricted). The approved idea is locked, so a change needs "Revise idea" -> Idea Returned -> edit Apps + step 4 + deliverable -> Resubmit idea -> wait for new approval. Maven (Oct 29, 7:01 PM): the Revise idea button was missing for the writer; Maven forwarded it to the project team for the task. Until resolved: no duplicate task, no recording, don't confirm tech setup against the old Word plan.
+Changes when approved:
+- Apps: Chrome (Browsing), Pages. TaskRecorder Used Apps must match exactly.
+- Step 4: Pages documents screenshots, chosen CSS, rationale (readability, tap targets, cross-plan comparability), verification table; export PDF.
+- Deliverable: final output 1.pdf (optional final output 2.pages).
+- Goal text unchanged (does not mention Word); copy the newest approved Goal exactly into TaskRecorder, opening document and Metadata.rtf Request.
+- Opening Goal document: use Pages (not Notes/TextEdit), showing only the Goal.
+- Metadata.rtf Topology example: Chrome - LOOKUP; Chrome - MODIFY; Pages - CREATE; Chrome - LOOKUP; Pages - MODIFY.
